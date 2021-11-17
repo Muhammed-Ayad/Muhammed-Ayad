@@ -5,7 +5,7 @@
     <a href="https://www.facebook.com/mohamed.abdo1998/"><img src="https://img.shields.io/badge/facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white"/></a>
   </p>
   
-  <img src="https://github.com/mohamedayad12/mohamedayad12/blob/main/code.gif" align="right" width="25%"/>
+
 
 
 
