@@ -9,7 +9,9 @@
 
 
 
-- 🔭 I'm a software developer 
+-🔭 software developer 
+
+
 -🌱 I’m in love with Flutter ...
 
 
