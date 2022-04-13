@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed Ayad</h1>
-<h3 align="center">-🔭 software developer -🌱 I’m in love with Flutter ...</h3>
+<h3 align="center">-🔭 Software Developer -🌱 I’m in love with Flutter ...</h3>
 
-- 🌱 I’m currently learning **Design Pattern, Algorithms**
+- 🌱 I’m currently learning ** Design Pattern, Algorithms **
 
 - 📫 How to reach me **mohamedayaddev@gmail.com**
 
