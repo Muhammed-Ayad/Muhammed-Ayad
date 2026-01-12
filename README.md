@@ -20,7 +20,7 @@
 Senior Mobile Software Engineer with **3+ years of experience** building scalable, high-quality mobile applications using **Flutter** for iOS & Android.
 
 I also have solid experience with:
-- **JavaScript & Node.js** (backend services & automation scripts)
+- **JavaScript & Node.js** 
 - Firebase, REST APIs
 - Clean Architecture & performance optimization
 
