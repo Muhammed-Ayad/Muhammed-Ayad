@@ -20,25 +20,34 @@
 Senior Mobile Software Engineer with **3+ years of experience** building scalable, high-quality mobile applications using **Flutter** for iOS & Android.
 
 I also have solid experience with:
-- **JavaScript & Node.js** 
+- **JavaScript & Node.js**
 - Firebase, REST APIs
 - Clean Architecture & performance optimization
 
 📍 Cairo, Egypt  
-📫 mohamedayaddev@gmail.com  
+📫 **mohamedayaddev@gmail.com**  
+📱 **WhatsApp:** +20 128 290 3069  
 
 ---
 
 ## 🛠 Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,js,nodejs,git,github,postman,linux,macos,androidstudio,xcode" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,js,nodejs,git,github,postman,linux,macos,androidstudio,xcode,vscode" />
 </p>
 
+### Languages & Frameworks
 - Flutter, Dart  
 - JavaScript (ES6+), Node.js  
+
+### State Management & Architecture
 - Riverpod, Bloc, Provider  
 - Clean Architecture, MVC, MVVM  
+
+### Tools & Workflow
+- VS Code  
+- Jira  
+- Agile Methodologies (Scrum)  
 
 ---
 
@@ -66,10 +75,7 @@ I also have solid experience with:
 ## 📱 Projects (Production Apps)
 
 ### 📻 **Atheer Radio**
-Islamic radio streaming app with **130+ stations**  
-- Android (Google Play)  
-- iOS (App Store)  
-- Huawei AppGallery  
+Islamic radio streaming app with **130+ stations**
 
 🔗 https://play.google.com/store/apps/details?id=atheer.mp3quran.net  
 🔗 https://apps.apple.com/sa/app/atheer-radio/id1578880750  
@@ -77,8 +83,7 @@ Islamic radio streaming app with **130+ stations**
 ---
 
 ### 📖 **Maqare – مقارئ**
-Qur’an memorization & structured learning app  
-- Bookmarks & progress tracking  
+Qur’an memorization & structured learning app
 
 🔗 https://play.google.com/store/apps/details?id=maqare.kmeet.app  
 🔗 https://apps.apple.com/us/app/maqare-%D9%85%D9%82%D8%A7%D8%B1%D8%A6/id1612866539  
@@ -86,8 +91,7 @@ Qur’an memorization & structured learning app
 ---
 
 ### 🏟 **YourZown**
-Sports & social club management platform  
-- Events, members, payments, groups  
+Sports & social club management platform
 
 🔗 https://play.google.com/store/apps/details?id=com.yourzownapp.yourzownapp  
 🔗 https://apps.apple.com/gb/app/yourzown/id6480378140  
@@ -95,44 +99,35 @@ Sports & social club management platform
 ---
 
 ### 💡 **Entreviable**
-Entrepreneurship & digital learning platform  
+Entrepreneurship & digital learning platform
 
 🔗 https://play.google.com/store/apps/details?id=com.logatta.entreviable  
 
 ---
 
 ### ✈️ **FlyThru**
-Airport baggage handling & travel services app  
+Airport baggage handling & travel services app
 
 🔗 https://play.google.com/store/apps/details?id=com.flythru.user  
 
 ---
 
 ### 🚚 **Musaed Driver**
-Driver-focused logistics & delivery app  
-- Route optimization  
-- Real-time task updates  
+Driver-focused logistics & delivery app
 
 🔗 https://play.google.com/store/apps/details?id=com.musaid.musaidDriver  
 
 ---
 
 ### 🛒 **Gopon**
-E-commerce marketplace app  
-- Product listing  
-- Inventory & order management  
+E-commerce marketplace app
 
 🔗 https://play.google.com/store/apps/details?id=com.goponkw.app  
 
 ---
 
 ### 🕌 **Balgho | Convey**
-Comprehensive Islamic app:
-- Qur’an Radio  
-- Adhkar  
-- Prayer times  
-- Qiblah  
-- Nawawi Hadiths  
+Comprehensive Islamic app
 
 🔗 https://play.google.com/store/apps/details?id=com.convey.ayah.mohamed.ayad  
 
@@ -140,25 +135,23 @@ Comprehensive Islamic app:
 
 ## 🧩 Open Source & Contributions
 
-Hands-on experience contributing to and working with:
-
 - ⭐ **Awesome Dart Frog**  
-  Dart backend ecosystem & project structure
+  🔗 https://pub.dev/packages/awesome_dart_frog  
 
 - 📍 **Google Places Autocomplete Text Field**  
-  Google Places API & location-based UI
+  🔗 https://pub.dev/packages/google_places_autocomplete_text_field  
 
 - 📞 **Flutter Phone Direct Caller**  
-  Native platform integration for direct calls
+  🔗 https://pub.dev/packages/flutter_phone_direct_caller  
 
 ---
 
 ## 📚 My Open Source Library
 
 ### 🧠 **Flutter AI Debugger**
-AI-powered Flutter debugging library to assist developers with smarter debugging workflows.
+AI-powered Flutter debugging library.
 
-🔗 https://github.com/Muhammed-Ayad/flutter_ai_debugger
+🔗 https://github.com/Muhammed-Ayad/flutter_ai_debugger  
 
 ---
 
