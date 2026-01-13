@@ -40,6 +40,9 @@ Senior Mobile Software Engineer with **3+ years of experience** building scalabl
 ## 📱 Projects (Production Apps)
 
 ### 📻 Atheer Radio
+Islamic radio streaming app with **130+ stations**  
+- Android (Google Play)  
+- iOS (App Store)  
 <p>
 <a href="https://play.google.com/store/apps/details?id=atheer.mp3quran.net">
   <img src="https://img.icons8.com/color/48/google-play.png"/>
@@ -52,6 +55,8 @@ Senior Mobile Software Engineer with **3+ years of experience** building scalabl
 ---
 
 ### 📖 Maqare – مقارئ
+Qur’an memorization & structured learning app  
+- Bookmarks & progress tracking  
 <p>
 <a href="https://play.google.com/store/apps/details?id=maqare.kmeet.app">
   <img src="https://img.icons8.com/color/48/google-play.png"/>
@@ -64,6 +69,8 @@ Senior Mobile Software Engineer with **3+ years of experience** building scalabl
 ---
 
 ### 🏟 YourZown
+Sports & social club management platform  
+- Events, members, payments, groups  
 <p>
 <a href="https://play.google.com/store/apps/details?id=com.yourzownapp.yourzownapp">
   <img src="https://img.icons8.com/color/48/google-play.png"/>
@@ -76,8 +83,58 @@ Senior Mobile Software Engineer with **3+ years of experience** building scalabl
 ---
 
 ### 💡 Entreviable
+Entrepreneurship & digital learning platform  
 <p>
 <a href="https://play.google.com/store/apps/details?id=com.logatta.entreviable">
+  <img src="https://img.icons8.com/color/48/google-play.png"/>
+</a>
+</p>
+
+---
+
+### ✈️ FlyThru
+Airport baggage handling & travel services app  
+<p>
+<a href="https://play.google.com/store/apps/details?id=com.flythru.user">
+  <img src="https://img.icons8.com/color/48/google-play.png"/>
+</a>
+</p>
+
+---
+
+### 🚚 Musaed Driver
+Driver-focused logistics & delivery app  
+- Route optimization  
+- Real-time task updates  
+<p>
+<a href="https://play.google.com/store/apps/details?id=com.musaid.musaidDriver">
+  <img src="https://img.icons8.com/color/48/google-play.png"/>
+</a>
+</p>
+
+---
+
+### 🛒 Gopon
+E-commerce marketplace app  
+- Product listing  
+- Inventory & order management  
+<p>
+<a href="https://play.google.com/store/apps/details?id=com.goponkw.app">
+  <img src="https://img.icons8.com/color/48/google-play.png"/>
+</a>
+</p>
+
+---
+
+### 🕌 Balgho | Convey
+Comprehensive Islamic app:  
+- Qur’an Radio  
+- Adhkar  
+- Prayer times  
+- Qiblah  
+- Nawawi Hadiths  
+<p>
+<a href="https://play.google.com/store/apps/details?id=com.convey.ayah.mohamed.ayad">
   <img src="https://img.icons8.com/color/48/google-play.png"/>
 </a>
 </p>
@@ -163,6 +220,4 @@ AI-powered Flutter debugging library to assist developers with smarter debugging
 </a>
 </p>
 
----
 
-⭐ Open to collaboration and challenging Flutter & Node.js projects
