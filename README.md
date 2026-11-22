@@ -17,7 +17,7 @@
 
 ## 👨‍💻 About Me
 
-Senior Mobile Software Engineer with **3+ years of experience** building scalable, high-quality mobile applications using **Flutter** for iOS & Android.
+Senior Mobile Software Engineer with **4+ years of experience** building scalable, high-quality mobile applications using **Flutter** for iOS & Android.
 
 📍 Cairo, Egypt  
 📫 **mohamedayaddev@gmail.com**
@@ -84,21 +84,11 @@ Sports & social club management platform
 
 ### 💡 Entreviable
 Entrepreneurship & digital learning platform  
-<p>
-<a href="https://play.google.com/store/apps/details?id=com.logatta.entreviable">
-  <img src="https://img.icons8.com/color/48/google-play.png"/>
-</a>
-</p>
 
 ---
 
 ### ✈️ FlyThru
 Airport baggage handling & travel services app  
-<p>
-<a href="https://play.google.com/store/apps/details?id=com.flythru.user">
-  <img src="https://img.icons8.com/color/48/google-play.png"/>
-</a>
-</p>
 
 ---
 
