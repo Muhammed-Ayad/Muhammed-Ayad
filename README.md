@@ -30,7 +30,7 @@ Open-source contributor and creator of [flutter_ai_debugger](https://pub.dev/pac
 
 ## 🛠 Tech Stack
 
-<p align="center"><b>Mobile</b><br/>
+<p align="center"><b>Mobile & Architecture</b><br/>
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"/>
 <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart"/>
 <img src="https://img.shields.io/badge/Riverpod-00B8D4?style=flat-square&logo=flutter&logoColor=white" alt="Riverpod"/>
@@ -38,42 +38,46 @@ Open-source contributor and creator of [flutter_ai_debugger](https://pub.dev/pac
 <img src="https://img.shields.io/badge/Clean_Architecture-4CAF50?style=flat-square&logo=flutter&logoColor=white" alt="Clean_Architecture"/>
 </p>
 
-<p align="center"><b>Backend & APIs</b><br/>
+<p align="center"><b>Backend, Cloud & APIs</b><br/>
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase"/>
+<img src="https://img.shields.io/badge/Cloud_Functions-FF9100?style=flat-square&logo=firebase&logoColor=white" alt="Cloud_Functions"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+<img src="https://img.shields.io/badge/Dart_Frog-00B4AB?style=flat-square&logo=dart&logoColor=white" alt="Dart_Frog"/>
 <img src="https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="REST_APIs"/>
 <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" alt="Stripe"/>
 <img src="https://img.shields.io/badge/FCM_Push_Notifications-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="FCM_Push_Notifications"/>
-<img src="https://img.shields.io/badge/Cloud_Functions-FF9100?style=flat-square&logo=firebase&logoColor=white" alt="Cloud_Functions"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+</p>
+
+<p align="center"><b>Languages</b><br/>
+<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
-<img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" alt="GraphQL"/>
-<img src="https://img.shields.io/badge/Dart_Frog-00B4AB?style=flat-square&logo=dart&logoColor=white" alt="Dart_Frog"/>
+</p>
+
+<p align="center"><b>CI/CD & Deployment</b><br/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub_Actions"/>
+<img src="https://img.shields.io/badge/Fastlane-00F200?style=flat-square&logo=fastlane&logoColor=black" alt="Fastlane"/>
+<img src="https://img.shields.io/badge/Google_Play_Publishing-34A853?style=flat-square&logo=googleplay&logoColor=white" alt="Google_Play_Publishing"/>
+<img src="https://img.shields.io/badge/App_Store_Publishing-0D96F6?style=flat-square&logo=appstore&logoColor=white" alt="App_Store_Publishing"/>
+<img src="https://img.shields.io/badge/TestFlight-0D96F6?style=flat-square&logo=apple&logoColor=white" alt="TestFlight"/>
 </p>
 
 <p align="center"><b>Tools & Workflow</b><br/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub_Actions"/>
-<img src="https://img.shields.io/badge/Fastlane-00F200?style=flat-square&logo=fastlane&logoColor=black" alt="Fastlane"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS_Code"/>
 <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=black" alt="Android_Studio"/>
 <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white" alt="Xcode"/>
-<img src="https://img.shields.io/badge/Google_Play_Publishing-34A853?style=flat-square&logo=googleplay&logoColor=white" alt="Google_Play_Publishing"/>
-<img src="https://img.shields.io/badge/App_Store_Publishing-0D96F6?style=flat-square&logo=appstore&logoColor=white" alt="App_Store_Publishing"/>
-<img src="https://img.shields.io/badge/TestFlight-0D96F6?style=flat-square&logo=apple&logoColor=white" alt="TestFlight"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS_Code"/>
 <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Jira"/>
 <img src="https://img.shields.io/badge/Agile_/_Scrum-6E40C9?style=flat-square&logo=agile&logoColor=white" alt="Agile_/_Scrum"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
 </p>
 
-<p align="center"><b>Currently learning</b><br/>
+<p align="center"><b>Currently Learning</b><br/>
 <img src="https://img.shields.io/badge/AI_Engineer-GenAI_%7C_LLMs_%7C_NLP-8A2BE2?style=flat-square" alt="Currently learning: AI Engineer (GenAI, LLMs, NLP)"/>
 </p>
-
----
 
 ## 💼 Experience
 
@@ -208,4 +212,3 @@ Apps published on Google Play and the App Store. I worked on these with product 
 <a href="https://stackoverflow.com/users/13758320"><img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow"/></a>
 <a href="https://twitter.com/mohamed_ayad199"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
 </p>
-
