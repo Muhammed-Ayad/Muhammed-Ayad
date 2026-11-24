@@ -17,7 +17,11 @@
 
 ## 👨‍💻 About Me
 
-Senior Mobile Software Engineer with **4+ years of experience** building scalable, high-quality mobile applications using **Flutter** for iOS & Android.
+Flutter Developer with 4+ years of production experience, having worked on iOS and Android apps published on the App Store and Google Play, including Atheer Radio (100K+ Google Play downloads), Gopon and Maqare (10K+ downloads each).
+
+Recently worked on YourZown, a club management app with integrated Stripe payments, still used by paying clubs today. Experienced across the full development lifecycle, from architecture and implementation using Riverpod, BLoC, and Clean Architecture to API and Firebase integration, and releases through Fastlane and GitHub Actions.
+
+Open-source contributor and creator of flutter_ai_debugger, a Flutter package on pub.dev that uses Gemini to help debug apps. Also contributed to the open-source projects google_places_autocomplete_text_field and flutter_phone_direct_caller.
 
 📍 Cairo, Egypt  
 📫 **mohamedayaddev@gmail.com**
