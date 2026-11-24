@@ -54,7 +54,7 @@ Open-source contributor and creator of [flutter_ai_debugger](https://pub.dev/pac
 
 ## 📱 Projects (Production Apps)
 
-Apps published on Google Play and the App Store. I worked on these with product teams; Balgho is my own project.
+Apps published on Google Play and the App Store. I worked on these with product teams and as a freelancer; Balgho is my own project.
 
 ### 🕌 Islamic & Qur’an Apps
 
@@ -79,7 +79,7 @@ Apps published on Google Play and the App Store. I worked on these with product 
 </td>
 <td width="50%" valign="top">
 <h4>🎓 Injaazy | إنجازي</h4>
-<p>Management system for Qur’an circles: student attendance, memorization tracking and teacher assessments.</p>
+<sub><b>FREELANCE</b></sub><br/><p>Management system for Qur’an circles: student attendance, memorization tracking and teacher assessments. Worked on it as a freelancer.</p>
 <p><a href="https://play.google.com/store/apps/details?id=com.injaazy.injaazystudent"><img src="https://img.shields.io/badge/Google_Play-34A853?style=for-the-badge&logo=googleplay&logoColor=white" alt="Google Play"/></a></p>
 </td>
 </tr>
@@ -96,7 +96,7 @@ Apps published on Google Play and the App Store. I worked on these with product 
 </td>
 <td width="50%" valign="top">
 <h4>🏢 Shary | شاري</h4>
-<p>Real estate marketplace for Egyptian developers with AI consultations, unit comparison and reservations.</p>
+<sub><b>FREELANCE</b></sub><br/><p>Real estate marketplace for Egyptian developers with AI consultations, unit comparison and reservations. Worked on it as a freelancer.</p>
 <p><a href="https://play.google.com/store/apps/details?id=com.sharyproperties.app"><img src="https://img.shields.io/badge/Google_Play-34A853?style=for-the-badge&logo=googleplay&logoColor=white" alt="Google Play"/></a></p>
 </td>
 </tr>
@@ -125,7 +125,7 @@ Apps published on Google Play and the App Store. I worked on these with product 
 </td>
 <td width="50%" valign="top">
 <h4>🍴 Damietta Restaurants | مطاعم دمياط</h4>
-<p>Local directory of Damietta restaurants with menus, reviews and new-place submissions.</p>
+<sub><b>FREELANCE</b></sub><br/><p>Local directory of Damietta restaurants with menus, reviews and new-place submissions. Worked on it as a freelancer.</p>
 <p><a href="https://play.google.com/store/apps/details?id=restaurants.muhammed.ayad"><img src="https://img.shields.io/badge/Google_Play-34A853?style=for-the-badge&logo=googleplay&logoColor=white" alt="Google Play"/></a></p>
 </td>
 </tr>
@@ -198,6 +198,12 @@ AI-powered Flutter debugging library to assist developers with smarter debugging
 ## 🌐 Connect with Me
 
 <p>
+<a href="https://muhammed-ayad.github.io/">
+  <img src="https://img.icons8.com/color/48/domain.png" title="Portfolio"/>
+</a>
+<a href="mailto:mohamedayaddev@gmail.com">
+  <img src="https://img.icons8.com/color/48/gmail-new.png" title="Email"/>
+</a>
 <a href="https://wa.me/201282903069">
   <img src="https://img.icons8.com/color/48/whatsapp--v1.png"/>
 </a>
@@ -211,4 +217,3 @@ AI-powered Flutter debugging library to assist developers with smarter debugging
   <img src="https://img.icons8.com/color/48/stackoverflow.png"/>
 </a>
 </p>
-
