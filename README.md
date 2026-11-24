@@ -43,8 +43,11 @@ Open-source contributor and creator of [flutter_ai_debugger](https://pub.dev/pac
 <img src="https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="REST_APIs"/>
 <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" alt="Stripe"/>
 <img src="https://img.shields.io/badge/FCM_Push_Notifications-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="FCM_Push_Notifications"/>
+<img src="https://img.shields.io/badge/Cloud_Functions-FF9100?style=flat-square&logo=firebase&logoColor=white" alt="Cloud_Functions"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/Scripting-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Scripting"/>
 </p>
 
 <p align="center"><b>Tools & Workflow</b><br/>
@@ -54,10 +57,18 @@ Open-source contributor and creator of [flutter_ai_debugger](https://pub.dev/pac
 <img src="https://img.shields.io/badge/Fastlane-00F200?style=flat-square&logo=fastlane&logoColor=black" alt="Fastlane"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman"/>
 <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=black" alt="Android_Studio"/>
+<img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white" alt="Xcode"/>
+<img src="https://img.shields.io/badge/Google_Play_Publishing-34A853?style=flat-square&logo=googleplay&logoColor=white" alt="Google_Play_Publishing"/>
+<img src="https://img.shields.io/badge/App_Store_Publishing-0D96F6?style=flat-square&logo=appstore&logoColor=white" alt="App_Store_Publishing"/>
+<img src="https://img.shields.io/badge/TestFlight-0D96F6?style=flat-square&logo=apple&logoColor=white" alt="TestFlight"/>
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS_Code"/>
 <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Jira"/>
 <img src="https://img.shields.io/badge/Agile_/_Scrum-6E40C9?style=flat-square&logo=agile&logoColor=white" alt="Agile_/_Scrum"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
+</p>
+
+<p align="center"><b>Currently learning</b><br/>
+<img src="https://img.shields.io/badge/AI_Engineer-GenAI_%7C_LLMs_%7C_NLP-8A2BE2?style=flat-square" alt="Currently learning: AI Engineer (GenAI, LLMs, NLP)"/>
 </p>
 
 ---
