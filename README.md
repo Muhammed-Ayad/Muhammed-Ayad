@@ -30,14 +30,35 @@ Open-source contributor and creator of [flutter_ai_debugger](https://pub.dev/pac
 
 ## 🛠 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,js,nodejs,git,github,postman,linux,androidstudio,vscode" height="80" style="display:inline-block; margin:5px"/>
+<p align="center"><b>Mobile</b><br/>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"/>
+<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart"/>
+<img src="https://img.shields.io/badge/Riverpod-00B8D4?style=flat-square&logo=flutter&logoColor=white" alt="Riverpod"/>
+<img src="https://img.shields.io/badge/BLoC-0553B1?style=flat-square&logo=flutter&logoColor=white" alt="BLoC"/>
+<img src="https://img.shields.io/badge/Clean_Architecture-4CAF50?style=flat-square&logo=flutter&logoColor=white" alt="Clean_Architecture"/>
 </p>
 
-**Tools & Workflow**
-- Jira  
-- Agile Methodologies (Scrum)
+<p align="center"><b>Backend & APIs</b><br/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase"/>
+<img src="https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="REST_APIs"/>
+<img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" alt="Stripe"/>
+<img src="https://img.shields.io/badge/FCM_Push_Notifications-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="FCM_Push_Notifications"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+</p>
 
+<p align="center"><b>Tools & Workflow</b><br/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub_Actions"/>
+<img src="https://img.shields.io/badge/Fastlane-00F200?style=flat-square&logo=fastlane&logoColor=black" alt="Fastlane"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman"/>
+<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=black" alt="Android_Studio"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS_Code"/>
+<img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Jira"/>
+<img src="https://img.shields.io/badge/Agile_/_Scrum-6E40C9?style=flat-square&logo=agile&logoColor=white" alt="Agile_/_Scrum"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
+</p>
 
 ---
 
@@ -133,87 +154,44 @@ Apps published on Google Play and the App Store. I worked on these with product 
 
 ---
 
-## 🧩 Open Source & Contributions
+## 🧩 Open Source
 
-<p align="center">
-
-<!-- Awesome Dart Frog -->
-<b>Awesome Dart Frog</b>
-<p>
-<a href="https://github.com/dart-frog-dev/awesome_dart_frog">
-  <img src="https://img.icons8.com/ios-glyphs/50/ffffff/github.png" title="GitHub"/>
-</a>
-</p>
-
-<!-- Google Places Autocomplete Text Field -->
-<b>Google Places Autocomplete</b>
-<p>
-<a href="https://github.com/julienandco/google_places_autocomplete_text_field">
-  <img src="https://img.icons8.com/ios-glyphs/50/ffffff/github.png" title="GitHub"/>
-</a>
-<a href="https://pub.dev/packages/google_places_autocomplete_text_field">
-  <img src="https://img.icons8.com/color/48/dart.png" title="pub.dev"/>
-</a>
-</p>
-
-<!-- Flutter Phone Direct Caller -->
-<b>Flutter Phone Direct Caller</b>
-<p>
-<a href="https://github.com/yanisalfian/flutter-phone-direct-caller">
-  <img src="https://img.icons8.com/ios-glyphs/50/ffffff/github.png" title="GitHub"/>
-</a>
-<a href="https://pub.dev/packages/flutter_phone_direct_caller">
-  <img src="https://img.icons8.com/color/48/dart.png" title="pub.dev"/>
-</a>
-</p>
-
-</p>
-
-
----
-
-## 📚 My Open Source Library
-
-### 🧠 Flutter AI Debugger
-AI-powered Flutter debugging library to assist developers with smarter debugging workflows.
-
-<p>
-<a href="https://github.com/Muhammed-Ayad/flutter_ai_debugger">
-  <img src="https://img.icons8.com/ios-glyphs/50/ffffff/github.png" title="GitHub"/>
-</a>
-
-<a href="https://pub.dev/packages/flutter_ai_debugger">
-  <img src="https://img.icons8.com/color/48/dart.png" title="pub.dev"/>
-</a>
-</p>
-
-<p>
-  <img src="https://img.shields.io/pub/v/flutter_ai_debugger?color=blue&label=pub.dev&logo=dart"/>
-  <img src="https://img.shields.io/pub/likes/flutter_ai_debugger?logo=dart"/>
-  <img src="https://img.shields.io/pub/points/flutter_ai_debugger?logo=dart"/>
-</p>
+<table>
+<tr>
+<td width="50%" valign="top">
+<h4>🧠 flutter_ai_debugger</h4>
+<sub><b>CREATOR</b></sub><br/><p>Flutter package that uses Gemini to help debug apps, published on pub.dev.</p>
+<p><a href="https://github.com/Muhammed-Ayad/flutter_ai_debugger"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a> <a href="https://pub.dev/packages/flutter_ai_debugger"><img src="https://img.shields.io/badge/pub.dev-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="pub.dev"/></a> <br/><img src="https://img.shields.io/pub/v/flutter_ai_debugger?color=blue&label=pub.dev&logo=dart"/> <img src="https://img.shields.io/pub/likes/flutter_ai_debugger?logo=dart"/> <img src="https://img.shields.io/pub/points/flutter_ai_debugger?logo=dart"/></p>
+</td>
+<td width="50%" valign="top">
+<h4>📍 google_places_autocomplete_text_field</h4>
+<sub><b>CONTRIBUTOR</b></sub><br/><p>Flutter text field with Google Places autocomplete. Contributed to this open-source package.</p>
+<p><a href="https://github.com/julienandco/google_places_autocomplete_text_field"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a> <a href="https://pub.dev/packages/google_places_autocomplete_text_field"><img src="https://img.shields.io/badge/pub.dev-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="pub.dev"/></a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h4>📞 flutter_phone_direct_caller</h4>
+<sub><b>CONTRIBUTOR</b></sub><br/><p>Flutter plugin to place phone calls directly from an app. Contributed to this open-source package.</p>
+<p><a href="https://github.com/yanisalfian/flutter-phone-direct-caller"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a> <a href="https://pub.dev/packages/flutter_phone_direct_caller"><img src="https://img.shields.io/badge/pub.dev-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="pub.dev"/></a></p>
+</td>
+<td width="50%" valign="top">
+<h4>🐸 awesome_dart_frog</h4>
+<sub><b>CONTRIBUTOR</b></sub><br/><p>Community list of Dart Frog resources, maintained by dart-frog-dev.</p>
+<p><a href="https://github.com/dart-frog-dev/awesome_dart_frog"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a></p>
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🌐 Connect with Me
 
-<p>
-<a href="https://muhammed-ayad.github.io/">
-  <img src="https://img.icons8.com/color/48/domain.png" title="Portfolio"/>
-</a>
-<a href="mailto:mohamedayaddev@gmail.com">
-  <img src="https://img.icons8.com/color/48/gmail-new.png" title="Email"/>
-</a>
-<a href="https://wa.me/201282903069">
-  <img src="https://img.icons8.com/color/48/whatsapp--v1.png"/>
-</a>
-<a href="https://www.linkedin.com/in/mohamedayaddev/">
-  <img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-<a href="https://twitter.com/mohamed_ayad199">
-  <img src="https://img.icons8.com/ios-filled/50/ffffff/x.png" title="X (Twitter)"/>
-</a>
-<a href="https://stackoverflow.com/users/13758320">
-  <img src="https://img.icons8.com/color/48/stackoverflow.png"/>
-</a>
+<p align="center">
+<a href="https://muhammed-ayad.github.io/"><img src="https://img.shields.io/badge/Portfolio-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+<a href="mailto:mohamedayaddev@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://www.linkedin.com/in/mohamedayaddev/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://wa.me/201282903069"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
+<a href="https://stackoverflow.com/users/13758320"><img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow"/></a>
+<a href="https://twitter.com/mohamed_ayad199"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
 </p>
