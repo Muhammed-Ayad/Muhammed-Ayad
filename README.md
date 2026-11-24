@@ -41,97 +41,95 @@ Open-source contributor and creator of [flutter_ai_debugger](https://pub.dev/pac
 
 ---
 
+## 💼 Experience
+
+| Period | Role | Company | What I worked on |
+|---|---|---|---|
+| May 2024 – Aug 2026 | **Senior Flutter Developer** | Symstax (Remote) | YourZown club platform: members, events, groups, Stripe payments, Firebase (Auth, Firestore, Functions, FCM) |
+| Sep 2023 – Jul 2024 | **Mid-Senior Flutter Developer** | Logatta (Freelance, Remote) | Musaed Driver logistics app with Riverpod, live GPS tracking and route optimization |
+| Jul 2023 – Mar 2024 | **Mid-Senior Flutter Developer** | SoftLink-kw (Part-time, Remote) | Gopon and Make with BLoC; contributed to architecture planning, store releases and build flavors |
+| May 2022 – Jun 2023 | **Junior Flutter Developer** | Kortobaa (Hybrid) | Atheer Radio and the Maqare rebuild; built complete features end to end |
+
+---
+
 ## 📱 Projects (Production Apps)
 
-### 📻 Atheer Radio
-Islamic radio streaming app with **130+ stations**  
-- Android (Google Play)  
-- iOS (App Store)  
-<p>
-<a href="https://play.google.com/store/apps/details?id=atheer.mp3quran.net">
-  <img src="https://img.icons8.com/color/48/google-play.png"/>
-</a>
-<a href="https://apps.apple.com/sa/app/atheer-radio/id1578880750">
-  <img src="https://img.icons8.com/ios-filled/50/ffffff/apple-app-store.png"/>
-</a>
-</p>
+Apps published on Google Play and the App Store. I worked on these with product teams; Balgho is my own project.
 
----
+### 🕌 Islamic & Qur’an Apps
 
-### 📖 Maqare – مقارئ
-Qur’an memorization & structured learning app  
-- Bookmarks & progress tracking  
-<p>
-<a href="https://play.google.com/store/apps/details?id=maqare.kmeet.app">
-  <img src="https://img.icons8.com/color/48/google-play.png"/>
-</a>
-<a href="https://apps.apple.com/us/app/maqare-%D9%85%D9%82%D8%A7%D8%B1%D8%A6/id1612866539">
-  <img src="https://img.icons8.com/ios-filled/50/ffffff/apple-app-store.png"/>
-</a>
-</p>
+<table>
+<tr>
+<td width="50%" valign="top">
+<h4>🕌 Balgho | Convey (بلّغوا)</h4>
+<sub><b>PERSONAL PROJECT</b></sub><br/><p>Islamic companion app: Qur’an radio, morning and evening Adhkar, prayer times, Qiblah compass and the Forty Nawawi Hadiths. Built and published solo, open source.</p>
+<p><a href="https://apps.apple.com/us/app/id6836274914"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white" alt="App Store"/></a> <a href="https://play.google.com/store/apps/details?id=com.convey.ayah.mohamed.ayad"><img src="https://img.shields.io/badge/Google_Play-34A853?style=for-the-badge&logo=googleplay&logoColor=white" alt="Google Play"/></a> <a href="https://github.com/Muhammed-Ayad/Balgho-Convey"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a></p>
+</td>
+<td width="50%" valign="top">
+<h4>📻 Atheer Radio | أثير</h4>
+<sub><b>KORTOBAA</b></sub><br/><p>Islamic radio streaming app with 130+ stations and background playback. 100K+ downloads on Google Play.</p>
+<p><a href="https://apps.apple.com/sa/app/atheer-radio/id1578880750"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white" alt="App Store"/></a> <a href="https://play.google.com/store/apps/details?id=atheer.mp3quran.net"><img src="https://img.shields.io/badge/Google_Play-34A853?style=for-the-badge&logo=googleplay&logoColor=white" alt="Google Play"/></a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h4>📖 Maqare | مقارئ</h4>
+<sub><b>KORTOBAA</b></sub><br/><p>Qur’an memorization and structured learning app with study circles and progress tracking. Worked on its rebuild. 10K+ downloads.</p>
+<p><a href="https://apps.apple.com/us/app/maqare-%D9%85%D9%82%D8%A7%D8%B1%D8%A6/id1612866539"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white" alt="App Store"/></a> <a href="https://play.google.com/store/apps/details?id=maqare.kmeet.app"><img src="https://img.shields.io/badge/Google_Play-34A853?style=for-the-badge&logo=googleplay&logoColor=white" alt="Google Play"/></a></p>
+</td>
+<td width="50%" valign="top">
+<h4>🎓 Injaazy | إنجازي</h4>
+<p>Management system for Qur’an circles: student attendance, memorization tracking and teacher assessments.</p>
+<p><a href="https://play.google.com/store/apps/details?id=com.injaazy.injaazystudent"><img src="https://img.shields.io/badge/Google_Play-34A853?style=for-the-badge&logo=googleplay&logoColor=white" alt="Google Play"/></a></p>
+</td>
+</tr>
+</table>
 
----
+### 🏟 Clubs, Real Estate & Commerce
 
-### 🏟 YourZown
-Sports & social club management platform  
-- Events, members, payments, groups  
-<p>
-<a href="https://play.google.com/store/apps/details?id=com.yourzownapp.yourzownapp">
-  <img src="https://img.icons8.com/color/48/google-play.png"/>
-</a>
-<a href="https://apps.apple.com/gb/app/yourzown/id6480378140">
-  <img src="https://img.icons8.com/ios-filled/50/ffffff/apple-app-store.png"/>
-</a>
-</p>
+<table>
+<tr>
+<td width="50%" valign="top">
+<h4>🏟 YourZown</h4>
+<sub><b>SYMSTAX</b></sub><br/><p>Sports and social club platform: members, events, groups and in-app Stripe payments, still used by paying clubs.</p>
+<p><a href="https://apps.apple.com/gb/app/yourzown/id6480378140"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white" alt="App Store"/></a> <a href="https://play.google.com/store/apps/details?id=com.yourzownapp.yourzownapp"><img src="https://img.shields.io/badge/Google_Play-34A853?style=for-the-badge&logo=googleplay&logoColor=white" alt="Google Play"/></a></p>
+</td>
+<td width="50%" valign="top">
+<h4>🏢 Shary | شاري</h4>
+<p>Real estate marketplace for Egyptian developers with AI consultations, unit comparison and reservations.</p>
+<p><a href="https://play.google.com/store/apps/details?id=com.sharyproperties.app"><img src="https://img.shields.io/badge/Google_Play-34A853?style=for-the-badge&logo=googleplay&logoColor=white" alt="Google Play"/></a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h4>🛒 Gopon | جوبون</h4>
+<sub><b>SOFTLINK-KW</b></sub><br/><p>Multi-vendor e-commerce marketplace: product listings, discounts, stock and order management.</p>
+<p><a href="https://apps.apple.com/eg/app/gopon-%D8%AC%D9%88%D8%A8%D9%88%D9%86/id1644354292"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white" alt="App Store"/></a> <a href="https://play.google.com/store/apps/details?id=com.goponkw.app"><img src="https://img.shields.io/badge/Google_Play-34A853?style=for-the-badge&logo=googleplay&logoColor=white" alt="Google Play"/></a></p>
+</td>
+<td width="50%" valign="top">
+<h4>🍽 Make | ميك</h4>
+<sub><b>SOFTLINK-KW</b></sub><br/><p>On-demand multi-service app connecting customers with restaurants, stores and local delivery.</p>
+<p><a href="https://play.google.com/store/apps/details?id=com.makekwapp.app"><img src="https://img.shields.io/badge/Google_Play-34A853?style=for-the-badge&logo=googleplay&logoColor=white" alt="Google Play"/></a></p>
+</td>
+</tr>
+</table>
 
----
+### 🚚 Logistics & Local Services
 
-### 💡 Entreviable
-Entrepreneurship & digital learning platform  
-
----
-
-### ✈️ FlyThru
-Airport baggage handling & travel services app  
-
----
-
-### 🚚 Musaed Driver
-Driver-focused logistics & delivery app  
-- Route optimization  
-- Real-time task updates  
-<p>
-<a href="https://play.google.com/store/apps/details?id=com.musaid.musaidDriver">
-  <img src="https://img.icons8.com/color/48/google-play.png"/>
-</a>
-</p>
-
----
-
-### 🛒 Gopon
-E-commerce marketplace app  
-- Product listing  
-- Inventory & order management  
-<p>
-<a href="https://play.google.com/store/apps/details?id=com.goponkw.app">
-  <img src="https://img.icons8.com/color/48/google-play.png"/>
-</a>
-</p>
-
----
-
-### 🕌 Balgho | Convey
-Comprehensive Islamic app:  
-- Qur’an Radio  
-- Adhkar  
-- Prayer times  
-- Qiblah  
-- Nawawi Hadiths  
-<p>
-<a href="https://play.google.com/store/apps/details?id=com.convey.ayah.mohamed.ayad">
-  <img src="https://img.icons8.com/color/48/google-play.png"/>
-</a>
-</p>
+<table>
+<tr>
+<td width="50%" valign="top">
+<h4>🚚 Musaed Driver | مساعد السائق</h4>
+<sub><b>LOGATTA</b></sub><br/><p>Driver app for logistics: route optimization, live dispatch updates and real-time task tracking.</p>
+<p><a href="https://play.google.com/store/apps/details?id=com.musaid.musaidDriver"><img src="https://img.shields.io/badge/Google_Play-34A853?style=for-the-badge&logo=googleplay&logoColor=white" alt="Google Play"/></a></p>
+</td>
+<td width="50%" valign="top">
+<h4>🍴 Damietta Restaurants | مطاعم دمياط</h4>
+<p>Local directory of Damietta restaurants with menus, reviews and new-place submissions.</p>
+<p><a href="https://play.google.com/store/apps/details?id=restaurants.muhammed.ayad"><img src="https://img.shields.io/badge/Google_Play-34A853?style=for-the-badge&logo=googleplay&logoColor=white" alt="Google Play"/></a></p>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -213,5 +211,4 @@ AI-powered Flutter debugging library to assist developers with smarter debugging
   <img src="https://img.icons8.com/color/48/stackoverflow.png"/>
 </a>
 </p>
-
 
